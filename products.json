@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Remera", "price": 20, "image": "img/remera.jpg" },
+  { "id": 2, "name": "Pantalón", "price": 35, "image": "img/pantalon.jpg" },
+  { "id": 3, "name": "Zapatillas", "price": 50, "image": "img/zapatillas.jpg" },
+  { "id": 4, "name": "Gorra", "price": 15, "image": "img/gorra.jpg" },
+  { "id": 5, "name": "Buzo", "price": 40, "image": "img/buzo.jpg" },
+  { "id": 6, "name": "Campera", "price": 60, "image": "img/campera.jpg" },
+  { "id": 7, "name": "Short", "price": 60, "image": "img/short.jpg" },
+  { "id": 8, "name": "Reloj inteligente", "price": 60, "image": "img/reloj.jpg" }
+
+]
